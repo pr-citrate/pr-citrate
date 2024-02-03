@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://pr-citrate.github.io/qr-code-component
 
 
 
